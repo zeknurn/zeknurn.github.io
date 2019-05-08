@@ -1,2 +1,3 @@
 name: Armchair Developers
 markdown: kramdown
+permalink: /mallescape/:year/:month/:day/:title
